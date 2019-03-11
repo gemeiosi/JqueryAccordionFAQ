@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+.question{
+    padding-left: 20px;
+    background-color: aquamarine;
+    border-bottom: 1px solid black;
+}
+.answer{
+    padding: 20px;
+    background-color: azure;
+    display:none;
+}
+.accordion{
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
